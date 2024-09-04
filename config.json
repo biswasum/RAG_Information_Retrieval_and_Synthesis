@@ -1,0 +1,6 @@
+{
+    "AZURE_OPENAI_KEY": "3f6cac0fe99e4c44886e29502c08863c",
+    "AZURE_OPENAI_ENDPOINT": "https://biswajeet-openai-june-cohort.openai.azure.com/",
+    "AZURE_OPENAI_APIVERSION": "2024-05-01-preview",
+    "CHATGPT_MODEL": "msft-June2024"
+}
